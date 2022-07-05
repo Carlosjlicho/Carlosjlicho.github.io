@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url(../images/forest.jpg);
+    background-image: url(../forest.jpg);
     background-repeat: no-repeat;
     background-size:cover;
 }
