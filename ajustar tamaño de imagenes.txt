@@ -1,0 +1,6 @@
+Para ajustar el tamaño de las imagenes el truco esta en poner widh y hight como auto y ajustar el max  width y max hight
+
+width:auto
+hight:auto
+max-width: 100px
+max-height: 100px

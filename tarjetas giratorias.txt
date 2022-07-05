@@ -1,0 +1,3 @@
+la importancia esta en crear 2 classes una front y una back
+
+y luego con el efecto hover hacemos que mientras tenemos el cursor encima se gire 
